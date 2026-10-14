@@ -28,3 +28,7 @@ npm run preview
 ```
 
 Deploy `dist/` to a static host. On Netlify or Vercel, use `npm run build` and output directory `dist`. This is an educational demo; all API profile data, including any sensitive-looking fields, is fictional. Use only public demo credentials.
+
+# Dummy-Authentication-Using-Redux-
+
+Deployment: https://authspace-redux-demo.bharamshettivivek71.chatgpt.site (private to the owner).
