@@ -4,3 +4,5 @@ dist/
 .env.local
 *.tar.gz
 .openai-local/
+
+.vercel

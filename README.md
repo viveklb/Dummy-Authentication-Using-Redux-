@@ -31,4 +31,5 @@ Deploy `dist/` to a static host. On Netlify or Vercel, use `npm run build` and o
 
 # Dummy-Authentication-Using-Redux-
 
-Deployment: https://authspace-redux-demo.bharamshettivivek71.chatgpt.site (private to the owner).
+Vercel deployment: https://dummy-authentication-using-redux-mu.vercel.app
+
